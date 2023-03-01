@@ -1,5 +1,5 @@
 # ZZCache
-仿YYCache实现swift缓存机制
+仿YYCache实现swift应用级缓存机制
 ## 内存缓存
 使用链式字典实现LRU淘汰算法
 ## 磁盘缓存
